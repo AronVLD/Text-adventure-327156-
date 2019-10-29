@@ -48,7 +48,7 @@ public class MyAdventure : MonoBehaviour
             }
             else if (input == "credits")
             {
-                Terminal.WriteLine("Gemaakt door: Aron van de Riddder");
+                Terminal.WriteLine("Gemaakt door: Aron van de Ridder");
             }
             else
             {

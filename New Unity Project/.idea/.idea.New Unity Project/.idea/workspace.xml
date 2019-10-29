@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26951e1e-628e-4fb4-9d97-e022fd1861f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Script/MyAdventure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/MyAdventure.cs" afterDir="false" />
     </list>
@@ -83,6 +83,10 @@
       <workItem from="1570518568315" duration="2839000" />
       <workItem from="1571122413302" duration="6946000" />
       <workItem from="1571129466706" duration="739000" />
+      <workItem from="1571130984238" duration="25000" />
+      <workItem from="1571596900725" duration="200000" />
+      <workItem from="1571659261184" duration="114000" />
+      <workItem from="1571680898162" duration="550000" />
     </task>
     <servers />
   </component>
